@@ -1,0 +1,33 @@
+.sideways {
+  width: 100%;
+  -ms-transform: rotate(90deg); /* IE 9 */
+  -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
+   transform: rotate(90deg);
+}
+.sideways-banner {
+  width: 60%;
+  -ms-transform: rotate(90deg); /* IE 9 */
+  -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
+   transform: rotate(90deg);
+}
+.container {
+  background-color: lightgreen;
+}
+.jumbotron {
+  background-color: green;
+}
+#banner {
+  margin-left: 15%;
+}
+#movie {
+  max-height: 600px;
+}
+html {
+  background-color: green;
+}
+body {
+  background-color: lightgreen;
+}
+p {
+  margin-top: auto;
+}
